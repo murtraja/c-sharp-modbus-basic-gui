@@ -1,0 +1,13 @@
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\Desktop_modbus_master.exe
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\Desktop_modbus_master.pdb
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\obj\Debug\Desktop_modbus_master.Form1.resources
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\obj\Debug\Desktop_modbus_master.Properties.Resources.resources
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\obj\Debug\Desktop_modbus_master.csproj.GenerateResource.Cache
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\obj\Debug\Desktop_modbus_master.exe
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\obj\Debug\Desktop_modbus_master.pdb
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\FtdAdapter.dll
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\log4net.dll
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\Modbus.dll
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\Modbus.Extensions.dll
+C:\Users\Murtaza\Documents\Visual Studio 2008\Projects\Desktop_modbus_master\bin\Debug\Unme.Common.dll
